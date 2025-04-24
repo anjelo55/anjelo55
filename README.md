@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<p>I'm currently learning to become a <code style="color : blue">web developer</code></p>
 <!--
 **anjelo55/anjelo55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
